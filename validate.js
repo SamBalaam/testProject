@@ -1,3 +1,4 @@
+// js comment and that
 
 function validateForm(){
 var x=document.forms["contact"]["email"].value;
