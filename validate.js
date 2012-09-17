@@ -1,5 +1,6 @@
 // js comment and that
 // second comment 
+// third comment
 
 function validateForm(){
 var x=document.forms["contact"]["email"].value;
