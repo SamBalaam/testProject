@@ -2,6 +2,8 @@
 // second comment 
 // third comment
 
+//this is a fourth edit from sam
+
 function validateForm(){
 var x=document.forms["contact"]["email"].value;
 var atpos=x.indexOf("@");
